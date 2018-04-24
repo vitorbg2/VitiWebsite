@@ -1,2 +1,2 @@
 # VitiWebsite
-Just an simple single webpage.
+WebPage for business.
